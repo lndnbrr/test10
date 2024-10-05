@@ -1,1 +1,1 @@
-console.log("terminal test text for test10");
+console.log("terminal test for test10");
